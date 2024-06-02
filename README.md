@@ -4,8 +4,4 @@
 
 CEO of @FlameClubDevelopment
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,bots,eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,py,redis,vscode,windows" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,py,redis,vscode,windows&theme=dark)](https://skillicons.dev)
