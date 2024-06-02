@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @HCFAlerts
 - 👀 I’m interested in Java & Kotlin
-- 🌱 I’m currently learning more Java
+- 🌱 I’m currently learning Marketing
 
 CEO of @FlameClubDevelopment
 
