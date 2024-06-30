@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+HCFAlerts;I'm Java Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+HCFAlerts;I'm Java Developer)](https://git.io/typing-svg)
 
 CEO of FlameClubDevelopment
 
