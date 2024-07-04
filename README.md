@@ -3,7 +3,7 @@
 CEO of FlameClubDevelopment
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCFAlerts&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCFAlerts&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,redis,vscode&theme=dark)](https://skillicons.dev)
