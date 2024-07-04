@@ -3,12 +3,7 @@
 CEO of FlameClubDevelopment
 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HCFAlerts" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HCFAlerts&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=HCFAlerts&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117)
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,redis,vscode&theme=dark)](https://skillicons.dev)
