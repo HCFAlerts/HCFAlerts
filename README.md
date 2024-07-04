@@ -12,7 +12,7 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
 </a>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,redis,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,redis,vscode&theme=dark)](https://github.com/HCFAlerts)
 
 
 [![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
