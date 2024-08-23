@@ -19,7 +19,7 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
 Plugins Used:
 Disqualified Core, BungeeUtils and FlameMOTD
 
-[![](https://dcbadge.limes.pink/api/server/fJ9XgQp4kQ)](https://discord.gg/fJ9XgQp4kQ)
+ [![](https://dcbadge.limes.pink/api/server/fJ9XgQp4kQ)](https://discord.gg/fJ9XgQp4kQ)
 
 
 [![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
