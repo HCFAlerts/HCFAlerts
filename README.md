@@ -2,7 +2,7 @@
 
 CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</a> and <a href="https://github.com/LiteClubDevelopment">@LiteClubDevelopment</a>
  * Discord: hcfalerts
- * ![My Discord](https://discord-readme-badge.vercel.app/api?id=1082095082573934672)
+  ![My Discord](https://discord-readme-badge.vercel.app/api?id=1082095082573934672)
 
 ## GitHub Stats
 <a href="https://github.com/HCFAlerts">
