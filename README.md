@@ -16,6 +16,6 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
 [![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,redis,vscode&theme=dark)](https://github.com/HCFAlerts)
 
 
-[![SpaceHCF](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=SpaceHCF&logo=discord&style=flat-square)](https://discord.gg/fJ9XgQp4kQ)
+[![](https://dcbadge.limes.pink/api/server/fJ9XgQp4kQ)](https://discord.gg/fJ9XgQp4kQ)
 
 [![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
