@@ -4,6 +4,8 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
    
 [![Discord Presence](https://lanyard.cnrad.dev/api/1082095082573934672)](https://discord.com/users/1082095082573934672)
 
+[![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ## GitHub Stats
 <a href="https://github.com/HCFAlerts">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HCFAlerts&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" /> 
@@ -20,7 +22,3 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
 SpaceHCF Network
 
 [![](https://dcbadge.limes.pink/api/server/fJ9XgQp4kQ)](https://discord.gg/fJ9XgQp4kQ)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
