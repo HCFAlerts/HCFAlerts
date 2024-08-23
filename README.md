@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7F7F7&random=false&width=435&lines=Hello%2C+my+name+is+HCFAlerts;I'm+Java+Developer)](https://github.com/HCFAlerts)
 
 CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</a> and <a href="https://github.com/LiteClubDevelopment">@LiteClubDevelopment</a>
- * Discord: hcfalerts
    
 [![Discord Presence](https://lanyard.cnrad.dev/api/1082095082573934672)](https://discord.com/users/1082095082573934672)
 
