@@ -15,9 +15,10 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,redis,vscode&theme=dark)](https://github.com/HCFAlerts)
 
-## Test my Projects on
-Owner @ SpaceHCF.us
-Plugins: Disqualified Core, BungeeUtils and FlameMOTD
+## Test my Projects on SpaceHCF Network
+Plugins Used:
+Disqualified Core, BungeeUtils and FlameMOTD
+
 [![](https://dcbadge.limes.pink/api/server/fJ9XgQp4kQ)](https://discord.gg/fJ9XgQp4kQ)
 
 
