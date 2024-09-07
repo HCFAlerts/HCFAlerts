@@ -2,7 +2,7 @@
 
 CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</a> and <a href="https://github.com/LiteClubDevelopment">@LiteClubDevelopment</a>
 
-Currently working on <a href="http://discord.spacehcf.us">@SpaceHCF</a> and <a href="https://github.com/WhitePvP">@WhitePvP</a>
+Currently working on <a href="https://discord.electrichcf.com">@ElectricHCF</a> and <a href="https://github.com/WhitePvP">@WhitePvP</a>
    
 [![Discord Presence](https://lanyard.cnrad.dev/api/1082095082573934672)](https://discord.com/users/1082095082573934672)
 
