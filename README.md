@@ -21,6 +21,6 @@ Currently working on <a href="https://discord.electrichcf.com">@ElectricHCF</a> 
 
 ## Server Projects
 
-SpaceHCF Network
+ElectricHCF Network
 
 [![](https://dcbadge.limes.pink/api/server/fJ9XgQp4kQ)](https://discord.gg/fJ9XgQp4kQ)
