@@ -6,7 +6,7 @@ Currently working on <a href="https://discord.electrichcf.com">@ElectricHCF</a> 
    
 [![Discord Presence](https://lanyard.cnrad.dev/api/1082095082573934672)](https://discord.com/users/1082095082573934672)
 
-[![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) [![](https://dcbadge.limes.pink/api/server/6KvMwGHPnJ)](https://discord.gg/6KvMwGHPnJ)
+[![](https://dcbadge.limes.pink/api/server/6KvMwGHPnJ)](https://discord.gg/6KvMwGHPnJ) [![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## GitHub Stats
 <a href="https://github.com/HCFAlerts">
