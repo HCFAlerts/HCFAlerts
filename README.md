@@ -7,6 +7,8 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
 [![](https://dcbadge.limes.pink/api/server/6KvMwGHPnJ)](https://discord.gg/6KvMwGHPnJ)
 
 ## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HCFAlerts)](https://github.com/HCFAlerts/github-readme-stats)
+
 <a href="https://github.com/HCFAlerts">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HCFAlerts&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" /> 
 </a>
