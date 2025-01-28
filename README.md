@@ -4,13 +4,13 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
    
 [![Discord Presence](https://lanyard.cnrad.dev/api/1082095082573934672)](https://discord.com/users/1082095082573934672)
 
-[![](https://dcbadge.limes.pink/api/server/6KvMwGHPnJ)](https://discord.gg/6KvMwGHPnJ)
+[![](https://dcbadge.limes.pink/api/server/sU7D3KuJWp)](https://discord.gg/sU7D3KuJWp)
 
 ## GitHub Stats
 <a href="https://github.com/HCFAlerts">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HCFAlerts&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" /> 
 </a>
-<a href="https://github.com/FlameClubDevelopment">
+<a href="https://github.com/LiteClubDevelopment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCFAlerts&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" />
 </a>
 
