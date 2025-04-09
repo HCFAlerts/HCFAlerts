@@ -17,4 +17,4 @@ CEO of <a href="https://github.com/FlameClubDevelopment">@FlameClubDevelopment</
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=eclipse,gradle,idea,java,js,kotlin,linux,maven,mongodb,mysql,redis,vscode&theme=dark)](https://github.com/HCFAlerts)
 
- [![](https://visitcount.itsvg.in/api?id=HCFAlerts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username&base=300&abbreviated=true)
